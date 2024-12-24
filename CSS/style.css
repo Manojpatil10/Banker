@@ -9,7 +9,7 @@
 }
 .header {
   min-height: 100vh;
-  width: 100%;
+  /* width: 100%; */
   background-image: linear-gradient(
       /* rgba(184, 178, 166, 0.7),
       rgba(184, 178, 166, 0.7) */
@@ -19,7 +19,7 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
-  box-sizing: content-box !important;
+  /* box-sizing: content-box !important; */
 }
 .nav-mobile {
   height: 70px;
