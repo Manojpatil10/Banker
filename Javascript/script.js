@@ -34,7 +34,7 @@ $(document).ready(function(){
     loop:true,
     autoplay:true
   });
-  $(".content").owlCarousel({
+  $(".content-slider").owlCarousel({
     items:1,
     loop:true,
     nav:true,
